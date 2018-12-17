@@ -13,6 +13,7 @@
 		* [2018/12](Assignment/1812/README.md)  
 			* [第一周](Assignment/1812/第一周.md)  
 			* [第二周](Assignment/1812/第二周.md)  
+			* [第三周](Assignment/1812/第三周.md)  
 	* [公告](Notice/README.md)  
 		* [第九周数据结构课程安排](Notice/9_DS.md)  
 		* [第九周Java课程安排](Notice/9_JAVA.md)  
