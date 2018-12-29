@@ -22,3 +22,4 @@
 		* [第十一周操作系统课程安排](Notice/11_OS.md)  
 		* [形式与政策考核安排](Notice/13_XZ.md)  
 		* [创新创业期末考核](Notice/Innovation.md)  
+		* [期末考试](Notice/Final.md)  
