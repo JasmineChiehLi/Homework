@@ -18,6 +18,8 @@
 		* [第五周](Assignment/1812/第五周.md)  
 	* [2019/01](Assignment/1901/README.md)  
 		* [第一周](Assignment/1901/第一周.md)  
+	* [2019/02](Assignment/1902/README.md)  
+		* [第五周](Assignment/1902/第五周.md)  
 * [公告](Notice/README.md)  
 	* [第九周数据结构课程安排](Notice/9_DS.md)  
 	* [第九周Java课程安排](Notice/9_JAVA.md)  
