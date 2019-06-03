@@ -34,6 +34,7 @@
     * [第二周](Assignment/1905/第二周.md)    
     * [第三周](Assignment/1905/第三周.md)  
     * [第四周](Assignment/1905/第四周.md)  
+    * [第五周](Assignment/1905/第五周.md)  
 * [公告](Notice/README.md)  
   * [第九周数据结构课程安排](Notice/9_DS.md)  
   * [第九周Java课程安排](Notice/9_JAVA.md)  
