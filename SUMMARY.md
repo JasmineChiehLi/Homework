@@ -37,5 +37,5 @@
     * [第五周](Assignment/大二/1905/第五周.md)  
   * [2019/06](Assignment/大二/1906/README.md)  
     * [第一周](Assignment/大二/1906/第一周.md)   
-  * [2019-2020学年](Assignment/大三/README.md)  
+* [2019-2020学年](Assignment/大三/README.md)  
   * [上](Assignment/大三/上/README.md)  
