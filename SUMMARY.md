@@ -44,5 +44,7 @@
         * [第三周](Assignment/大三/上/1909/第三周.md)    
         * [第四周](Assignment/大三/上/1909/第四周.md)  
         * [第五周](Assignment/大三/上/1909/第五周.md)  
+      * [2019/10](Assignment/大三/上/1910/README.md)  
+        * [第六周](Assignment/大三/上/1910/第六周.md)  
 * [实用查询](Utils/README.md)  
   * [2019-2020学年校历](Utils/calendar.md)  
