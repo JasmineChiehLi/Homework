@@ -50,5 +50,7 @@
         * [第八周](Assignment/大三/上/1910/第八周.md)  
         * [第九周](Assignment/大三/上/1910/第九周.md)  
         * [第十周](Assignment/大三/上/1910/第十周.md)  
+      * [2019/11](Assignment/大三/上/1911/README.md)  
+        * [第十一周](Assignment/大三/上/1911/第十一周.md)    
 * [实用查询](Utils/README.md)  
   * [2019-2020学年校历](Utils/calendar.md)  
